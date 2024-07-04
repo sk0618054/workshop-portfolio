@@ -12,6 +12,7 @@ import PropTypes from "prop-types";
 import { Icon } from "@iconify/react";
 import emailIcon from "@iconify/icons-ic/outline-email";
 import githubIcon from "@iconify/icons-akar-icons/github-fill";
+// import linkedInIcon from "@iconify/icons-akar-icons/linkedin-fill";
 import linkedInIcon from "@iconify/icons-akar-icons/linkedin-fill";
 import mediumIcon from "@iconify/icons-akar-icons/medium-fill";
 import twitterIcon from "@iconify/icons-akar-icons/twitter-fill";
@@ -26,7 +27,7 @@ const socialMediaLinks = {
   email: "sk0618054@gmail.com",
   gitHub: "",
   instagram: "",
-  linkedIn: "sanjeet-kumar-9a187b256",
+  linkedIn: "",
   medium: "",
   twitter: "",
   youTube: "",

@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -30,14 +30,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Web design",
-  "User experience",
-  "Web Development",
-  "Content creation",
-  "Mobile user interfaces",
-  "Graphic design",
-];
+const skillsList = ["Web Development"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -45,7 +38,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am a passionate learner and always looking for new opportunities to learn and grow. I am a UI/UX enthusiast and a passionate learner. I am always looking for new opportunities to learn and grow.";
+  "I am a passionate learner and always looking for new opportunities to learn and grow.  I am always looking for new opportunities to learn and grow.";
 
 const About = () => {
   return (
